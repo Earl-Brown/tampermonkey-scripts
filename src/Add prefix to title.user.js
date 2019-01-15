@@ -12,6 +12,7 @@
 // @grant          chrome-extension:*//*/*
 // @match          http://*/*
 // @match          https://*/*
+// @noframes
 // ==/UserScript==
 
 // github repository:
