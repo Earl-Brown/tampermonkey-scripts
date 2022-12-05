@@ -8,11 +8,8 @@
 // @require        https://openuserjs.org/src/libs/sizzle/GM_config.js
 // @grant          GM_getValue
 // @grant          GM_setValue
-// @grant          chrome:*//*/*
-// @grant          chrome-extension:*//*/*
 // @match          http://*/*
 // @match          https://*/*
-// @noframes       true
 // ==/UserScript==
 
 // github repository:
